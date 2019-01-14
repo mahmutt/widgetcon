@@ -1,0 +1,474 @@
+/*! Forms Plus: JS.1.3 - ' + '2016-01-25 */
+.p-form-modern-indianRed .progress-bar-fp {
+  background-color: #cd5c5c;
+}
+.p-form-modern-indianRed .btn {
+  background-color: #cd5c5c;
+}
+.p-form-modern-indianRed .btn.p-active-btn,
+.p-form-modern-indianRed .btn:hover,
+.p-form-modern-indianRed .btn:focus {
+  background-color: #c33d3d;
+}
+.p-form-modern-indianRed .radio label a,
+.p-form-modern-indianRed .checkbox label a,
+.p-form-modern-indianRed .p-switch label a,
+.p-form-modern-indianRed .p-radioswitch label a,
+.p-form-modern-indianRed .p-show-block-heading label a {
+  color: #cd5c5c;
+}
+.p-form-modern-indianRed .p-check-active-icon {
+  color: #cd5c5c;
+}
+.p-form-modern-indianRed .p-check-block:after {
+  background-color: #cd5c5c;
+  border-color: #cd5c5c;
+}
+.p-form-modern-indianRed .p-switch-icon:after {
+  background-color: #cd5c5c;
+  border-color: #cd5c5c;
+}
+.p-form-modern-indianRed .p-check-next:checked + .p-check-container .p-check-icon .p-check-middle,
+.p-form-modern-indianRed :checked ~ .p-check-icon .p-check-middle {
+  color: #cd5c5c;
+}
+.p-form-modern-indianRed .p-check-next:checked + .p-check-container .p-check-icon .p-check-block,
+.p-form-modern-indianRed :checked ~ .p-check-icon .p-check-block {
+  border-color: #cd5c5c;
+}
+.p-form-modern-indianRed .p-check-next:checked + .p-check-container .p-switch-icon,
+.p-form-modern-indianRed :checked ~ .p-switch-icon {
+  border-color: #cd5c5c;
+}
+.p-form-modern-indianRed .p-check-next:checked + .p-check-container .p-switch-icon:before,
+.p-form-modern-indianRed :checked ~ .p-switch-icon:before {
+  color: #cd5c5c;
+}
+.p-form-modern-indianRed .checkbox label:hover .p-check-active-icon,
+.p-form-modern-indianRed .radio label:hover .p-check-active-icon,
+.p-form-modern-indianRed .p-check-next + .p-check-container:hover .p-check-active-icon,
+.p-form-modern-indianRed .checkbox label:hover .p-check-icon .p-check-middle,
+.p-form-modern-indianRed .radio label:hover .p-check-icon .p-check-middle,
+.p-form-modern-indianRed .p-check-next + .p-check-container:hover .p-check-icon .p-check-middle {
+  color: #db8b8b;
+}
+.p-form-modern-indianRed .checkbox label:hover .p-check-icon .p-check-block,
+.p-form-modern-indianRed .radio label:hover .p-check-icon .p-check-block,
+.p-form-modern-indianRed .p-check-next + .p-check-container:hover .p-check-icon .p-check-block {
+  border-color: #db8b8b;
+}
+.p-form-modern-indianRed .p-radioswitch label:hover .p-switch-icon,
+.p-form-modern-indianRed .p-switch label:hover .p-switch-icon {
+  border-color: #db8b8b;
+}
+.p-form-modern-indianRed .p-picture-pick .p-preview-name {
+  background-color: rgba(0,0,0,0.7);
+}
+.p-form-modern-indianRed .p-picture-pick :checked ~ .p-preview-name {
+  background-color: rgba(195,61,61,0.7);
+}
+.p-form-modern-indianRed .p-picture-pick:hover .p-preview-name {
+  background-color: rgba(205,92,92,0.7);
+}
+.p-form-modern-indianRed .p-block-pick :checked ~ .p-check-container {
+  background-color: #f3d8d8;
+}
+.p-form-modern-indianRed .p-block-pick:hover .p-check-container {
+  background-color: #f8e8e8;
+}
+.p-form-modern-indianRed .p-show-block:checked + .p-show-block-heading:hover,
+.p-form-modern-indianRed .p-show-block-heading:hover {
+  color: #db8b8b;
+}
+.p-form-modern-indianRed .p-show-block:checked + .p-show-block-heading {
+  color: #cd5c5c;
+}
+.p-form-modern-indianRed .p-radio-color [type="checkbox"]:checked ~ .p-color-block,
+.p-form-modern-indianRed .p-radio-color [type="radio"]:checked ~ .p-color-block {
+  border-color: #cd5c5c;
+}
+.p-form-modern-indianRed .p-colored-text {
+  color: #cd5c5c;
+}
+.p-form-modern-indianRed .p-alt-colored-text {
+  color: #cd5c5c;
+}
+.p-form-modern-indianRed .p-colored-link {
+  color: #cd5c5c;
+}
+.p-form-modern-indianRed .p-colored-link:hover {
+  color: #c33d3d;
+}
+.p-form-modern-indianRed .p-action-link:hover {
+  color: #c33d3d;
+}
+.p-form-modern-indianRed .form-control:focus,
+.p-form-modern-indianRed .form-control:hover,
+.p-form-modern-indianRed .input-group:hover .form-control,
+.p-form-modern-indianRed .p-file-wrap [type="file"]:hover ~ .input-group .form-control,
+.p-form-modern-indianRed .sp-input:focus,
+.p-form-modern-indianRed .sp-input:hover {
+  border-color: #cd5c5c;
+}
+.p-form-modern-indianRed .form-control:focus ~ .input-group-icon,
+.p-form-modern-indianRed .form-control:hover ~ .input-group-icon,
+.p-form-modern-indianRed .input-group:hover .input-group-icon,
+.p-form-modern-indianRed .p-file-wrap [type="file"]:hover ~ .input-group .input-group-icon,
+.p-form-modern-indianRed .sp-input:focus ~ .input-group-icon,
+.p-form-modern-indianRed .sp-input:hover ~ .input-group-icon,
+.p-form-modern-indianRed .form-control:focus ~ .p-select-arrow,
+.p-form-modern-indianRed .form-control:hover ~ .p-select-arrow,
+.p-form-modern-indianRed .input-group:hover .p-select-arrow,
+.p-form-modern-indianRed .p-file-wrap [type="file"]:hover ~ .input-group .p-select-arrow,
+.p-form-modern-indianRed .sp-input:focus ~ .p-select-arrow,
+.p-form-modern-indianRed .sp-input:hover ~ .p-select-arrow,
+.p-form-modern-indianRed .form-control:focus ~ .input-group-addon .p-addon-bg,
+.p-form-modern-indianRed .form-control:hover ~ .input-group-addon .p-addon-bg,
+.p-form-modern-indianRed .input-group:hover .input-group-addon .p-addon-bg,
+.p-form-modern-indianRed .p-file-wrap [type="file"]:hover ~ .input-group .input-group-addon .p-addon-bg,
+.p-form-modern-indianRed .sp-input:focus ~ .input-group-addon .p-addon-bg,
+.p-form-modern-indianRed .sp-input:hover ~ .input-group-addon .p-addon-bg {
+  border-color: #c33d3d;
+  background-color: #cd5c5c;
+}
+.p-form-modern-indianRed .form-control:focus ~ .p-field-cb,
+.p-form-modern-indianRed .form-control:hover ~ .p-field-cb,
+.p-form-modern-indianRed .input-group:hover .p-field-cb,
+.p-form-modern-indianRed .p-file-wrap [type="file"]:hover ~ .input-group .p-field-cb,
+.p-form-modern-indianRed .sp-input:focus ~ .p-field-cb,
+.p-form-modern-indianRed .sp-input:hover ~ .p-field-cb {
+  border-color: #cd5c5c;
+}
+.p-form-modern-indianRed .input-group-btn .btn:hover,
+.p-form-modern-indianRed .input-group-btn .btn:focus,
+.p-form-modern-indianRed .p-file-wrap [type="file"]:hover ~ .input-group .input-group-btn .btn {
+  background-color: #c33d3d;
+}
+.p-form-modern-indianRed .sp-container {
+  background-color: #cd5c5c;
+}
+.p-form-modern-indianRed .sp-initial,
+.p-form-modern-indianRed .sp-clear,
+.p-form-modern-indianRed .sp-palette .sp-thumb-el {
+  border-color: #db8b8b;
+  color: #db8b8b;
+}
+.p-form-modern-indianRed .sp-clear:hover,
+.p-form-modern-indianRed .sp-palette .sp-thumb-el:hover,
+.p-form-modern-indianRed .sp-palette .sp-thumb-el.sp-thumb-active {
+  border-color: #b43737;
+  color: #b43737;
+}
+.p-form-modern-indianRed .sp-clear:hover:after,
+.p-form-modern-indianRed .sp-palette .sp-thumb-el:hover:after,
+.p-form-modern-indianRed .sp-palette .sp-thumb-el.sp-thumb-active:after {
+  border-color: #faefef;
+}
+.p-form-modern-indianRed .sp-choose,
+.p-form-modern-indianRed .sp-cancel,
+.p-form-modern-indianRed .sp-palette-toggle {
+  color: #faefef;
+}
+.p-form-modern-indianRed .sp-choose:hover,
+.p-form-modern-indianRed .sp-cancel:hover,
+.p-form-modern-indianRed .sp-palette-toggle:hover,
+.p-form-modern-indianRed .sp-choose:focus,
+.p-form-modern-indianRed .sp-cancel:focus,
+.p-form-modern-indianRed .sp-palette-toggle:focus,
+.p-form-modern-indianRed .sp-choose:active,
+.p-form-modern-indianRed .sp-cancel:active,
+.p-form-modern-indianRed .sp-palette-toggle:active {
+  color: #dc8e8e;
+}
+.p-form-modern-indianRed .p-colorpick-no-bg .sp-flat .sp-clear:hover,
+.p-form-modern-indianRed .p-colorpick-no-bg .sp-flat .sp-palette .sp-thumb-el:hover,
+.p-form-modern-indianRed .p-colorpick-no-bg .sp-flat .sp-palette .sp-thumb-el.sp-thumb-active {
+  border-color: #cd5c5c;
+  color: #cd5c5c;
+}
+.p-form-modern-indianRed .p-colorpick-no-bg .sp-flat .sp-choose,
+.p-form-modern-indianRed .p-colorpick-no-bg .sp-flat .sp-cancel,
+.p-form-modern-indianRed .p-colorpick-no-bg .sp-flat .sp-palette-toggle {
+  background-color: #cd5c5c;
+}
+.p-form-modern-indianRed .p-colorpick-no-bg .sp-flat .sp-choose:hover,
+.p-form-modern-indianRed .p-colorpick-no-bg .sp-flat .sp-cancel:hover,
+.p-form-modern-indianRed .p-colorpick-no-bg .sp-flat .sp-palette-toggle:hover,
+.p-form-modern-indianRed .p-colorpick-no-bg .sp-flat .sp-choose:focus,
+.p-form-modern-indianRed .p-colorpick-no-bg .sp-flat .sp-cancel:focus,
+.p-form-modern-indianRed .p-colorpick-no-bg .sp-flat .sp-palette-toggle:focus,
+.p-form-modern-indianRed .p-colorpick-no-bg .sp-flat .sp-choose:active,
+.p-form-modern-indianRed .p-colorpick-no-bg .sp-flat .sp-cancel:active,
+.p-form-modern-indianRed .p-colorpick-no-bg .sp-flat .sp-palette-toggle:active {
+  background-color: #c33d3d;
+}
+.p-form-modern-indianRed .bootstrap-datetimepicker-widget {
+  background-color: #cd5c5c;
+}
+.p-form-modern-indianRed .bootstrap-datetimepicker-widget table thead tr:first-child th:hover {
+  color: #e3a2a2;
+  background-color: #862929;
+}
+.p-form-modern-indianRed .bootstrap-datetimepicker-widget table thead th {
+  background-color: #862929;
+}
+.p-form-modern-indianRed .bootstrap-datetimepicker-widget table td div:hover,
+.p-form-modern-indianRed .bootstrap-datetimepicker-widget table td span:hover {
+  color: #b43737;
+  background-color: #db8b8b;
+}
+.p-form-modern-indianRed .bootstrap-datetimepicker-widget table td a,
+.p-form-modern-indianRed .bootstrap-datetimepicker-widget table td .btn {
+  color: #eababa;
+  background-color: transparent;
+}
+.p-form-modern-indianRed .bootstrap-datetimepicker-widget table td a:hover,
+.p-form-modern-indianRed .bootstrap-datetimepicker-widget table td .btn:hover,
+.p-form-modern-indianRed .bootstrap-datetimepicker-widget table td a span:hover,
+.p-form-modern-indianRed .bootstrap-datetimepicker-widget table td .btn span:hover {
+  color: #862929;
+}
+.p-form-modern-indianRed .bootstrap-datetimepicker-widget table .old,
+.p-form-modern-indianRed .bootstrap-datetimepicker-widget table .new {
+  color: #edc4c4;
+}
+.p-form-modern-indianRed .bootstrap-datetimepicker-widget table td .active,
+.p-form-modern-indianRed .bootstrap-datetimepicker-widget table .active div {
+  background-color: #862929;
+}
+.p-form-modern-indianRed .bootstrap-datetimepicker-widget table .today div:before {
+  border-color: rgba(234,186,186,0);
+  border-bottom-color: #eababa;
+}
+.p-form-modern-indianRed .bootstrap-datetimepicker-widget table span.disabled,
+.p-form-modern-indianRed .bootstrap-datetimepicker-widget table .disabled div,
+.p-form-modern-indianRed .bootstrap-datetimepicker-widget table span.disabled:hover,
+.p-form-modern-indianRed .bootstrap-datetimepicker-widget table .disabled div:hover {
+  color: #db8b8b;
+  background-color: #cd5c5c;
+}
+.p-form-modern-indianRed .bootstrap-datetimepicker-widget table .disabled span,
+.p-form-modern-indianRed .bootstrap-datetimepicker-widget table .disabled span:hover {
+  color: #db8b8b;
+}
+.p-form-modern-indianRed .bootstrap-datetimepicker-widget .datepicker-days thead .picker-switch {
+  border-bottom-color: #b53737;
+}
+.p-form-modern-indianRed .bootstrap-datetimepicker-widget.dropdown-menu.top:after {
+  border-top-color: #cd5c5c;
+}
+.p-form-modern-indianRed .bootstrap-datetimepicker-widget.dropdown-menu.bottom:after {
+  border-bottom-color: #862929;
+}
+.p-form-modern-indianRed .p-datetime-no-bg .bootstrap-datetimepicker-widget table thead {
+  color: #cd5c5c;
+}
+.p-form-modern-indianRed .p-datetime-no-bg .bootstrap-datetimepicker-widget table thead tr:first-child th:hover {
+  color: #862929;
+}
+.p-form-modern-indianRed .p-datetime-no-bg .bootstrap-datetimepicker-widget table thead .dow {
+  color: #862929;
+}
+.p-form-modern-indianRed .p-datetime-no-bg .bootstrap-datetimepicker-widget table td a,
+.p-form-modern-indianRed .p-datetime-no-bg .bootstrap-datetimepicker-widget table td .btn {
+  color: #cd5c5c;
+}
+.p-form-modern-indianRed .p-datetime-no-bg .bootstrap-datetimepicker-widget table td a:hover,
+.p-form-modern-indianRed .p-datetime-no-bg .bootstrap-datetimepicker-widget table td .btn:hover,
+.p-form-modern-indianRed .p-datetime-no-bg .bootstrap-datetimepicker-widget table td a span:hover,
+.p-form-modern-indianRed .p-datetime-no-bg .bootstrap-datetimepicker-widget table td .btn span:hover {
+  color: #862929;
+}
+.p-form-modern-indianRed .p-datetime-no-bg .bootstrap-datetimepicker-widget table .today div:before {
+  border-color: rgba(234,186,186,0);
+  border-bottom-color: #eababa;
+}
+.p-form-modern-indianRed .p-js-link {
+  color: #eababa;
+}
+.p-form-modern-indianRed .p-js-link:hover,
+.p-form-modern-indianRed .p-show-js-block .p-js-link:hover,
+.p-form-modern-indianRed .p-field-toggled .p-js-link:hover,
+.p-form-modern-indianRed .p-js-link:focus,
+.p-form-modern-indianRed .p-show-js-block .p-js-link:focus,
+.p-form-modern-indianRed .p-field-toggled .p-js-link:focus {
+  color: #d77b7b;
+}
+.p-form-modern-indianRed .p-js-active-link,
+.p-form-modern-indianRed .p-show-js-block .p-js-link,
+.p-form-modern-indianRed .p-field-toggled .p-js-link {
+  color: #cd5c5c;
+}
+.p-form-modern-indianRed .input-group .realperson-challenge .realperson-regen {
+  color: #cd5c5c;
+}
+.p-form-modern-indianRed .input-group .realperson-challenge .realperson-regen:hover {
+  color: #c33d3d;
+}
+.p-form-modern-indianRed .input-group .realperson-challenge .realperson-text:hover {
+  color: #cd5c5c;
+}
+.p-form-modern-indianRed .p-slider-block .p-js-value,
+.p-form-modern-indianRed .p-sl-tip {
+  border-color: #cd5c5c;
+}
+.p-form-modern-indianRed .p-sl-tip:before {
+  border-color: rgba(205,92,92,0);
+}
+.p-form-modern-indianRed .ui-slider-range {
+  background-color: #cd5c5c;
+}
+.p-form-modern-indianRed .ui-slider-handle:after {
+  border-color: #cd5c5c;
+}
+.p-form-modern-indianRed .ui-slider-handle .p-sl-icon {
+  background-color: #cd5c5c;
+}
+.p-form-modern-indianRed .ui-slider-handle.ui-state-focus:after,
+.p-form-modern-indianRed .ui-slider-handle.ui-state-active:after,
+.p-form-modern-indianRed .ui-slider-handle.ui-state-hover:after {
+  border-color: #c33d3d;
+}
+.p-form-modern-indianRed .ui-slider-handle.ui-state-focus .p-sl-icon,
+.p-form-modern-indianRed .ui-slider-handle.ui-state-active .p-sl-icon,
+.p-form-modern-indianRed .ui-slider-handle.ui-state-hover .p-sl-icon {
+  background-color: #c33d3d;
+}
+.p-form-modern-indianRed .ui-slider-horizontal .p-sl-tip:before {
+  border-bottom-color: #cd5c5c;
+}
+.p-form-modern-indianRed .ui-slider-vertical .p-sl-tip:before {
+  border-right-color: #cd5c5c;
+}
+.p-form-modern-indianRed .p-rating .p-rating-active-icon {
+  color: #cd5c5c;
+}
+.p-form-modern-indianRed .p-rating input[type="radio"] ~ label:hover .p-rating-icon,
+.p-form-modern-indianRed .p-rating input[type="radio"] ~ label:hover ~ label .p-rating-icon,
+.p-form-modern-indianRed .p-rating [type="radio"]:checked ~ label .p-rating-icon {
+  color: #cd5c5c;
+}
+.p-form-modern-indianRed .p-rating input[type="radio"] ~ label.p-field-cancel:hover {
+  color: #cd5c5c;
+}
+.p-form-modern-indianRed .p-rating input[type="radio"] ~ label.p-field-cancel:hover ~ label .p-rating-icon,
+.p-form-modern-indianRed .p-rating .p-rating-cancel:checked ~ label .p-rating-icon,
+.p-form-modern-indianRed .p-rating *:hover [type="radio"] ~ label .p-rating-icon {
+  color: #999;
+}
+.p-form-modern-indianRed .p-form-steps > li.active .p-step:before {
+  background-color: #b43737;
+}
+.p-form-modern-indianRed .p-step {
+  color: #d77b7b;
+}
+.p-form-modern-indianRed .p-step .p-step-text {
+  background-color: #b43737;
+}
+.p-form-modern-indianRed .nav-tabs > li > label {
+  color: #cd5c5c;
+}
+.p-form-modern-indianRed .nav-tabs > li > label:hover,
+.p-form-modern-indianRed .nav-tabs > li > label:focus {
+  background-color: #d77b7b;
+}
+.p-form-modern-indianRed .p-tab-sel:nth-child(1):checked ~ .nav-tabs > li:nth-child(1) > label,
+.p-form-modern-indianRed .p-tab-sel:nth-child(2):checked ~ .nav-tabs > li:nth-child(2) > label,
+.p-form-modern-indianRed .p-tab-sel:nth-child(3):checked ~ .nav-tabs > li:nth-child(3) > label,
+.p-form-modern-indianRed .p-tab-sel:nth-child(4):checked ~ .nav-tabs > li:nth-child(4) > label,
+.p-form-modern-indianRed .p-tab-sel:nth-child(5):checked ~ .nav-tabs > li:nth-child(5) > label,
+.p-form-modern-indianRed .p-tab-sel:nth-child(1):checked ~ .nav-tabs > li:nth-child(1) > label:hover,
+.p-form-modern-indianRed .p-tab-sel:nth-child(2):checked ~ .nav-tabs > li:nth-child(2) > label:hover,
+.p-form-modern-indianRed .p-tab-sel:nth-child(3):checked ~ .nav-tabs > li:nth-child(3) > label:hover,
+.p-form-modern-indianRed .p-tab-sel:nth-child(4):checked ~ .nav-tabs > li:nth-child(4) > label:hover,
+.p-form-modern-indianRed .p-tab-sel:nth-child(5):checked ~ .nav-tabs > li:nth-child(5) > label:hover,
+.p-form-modern-indianRed .p-tab-sel:nth-child(1):checked ~ .nav-tabs > li:nth-child(1) > label:focus,
+.p-form-modern-indianRed .p-tab-sel:nth-child(2):checked ~ .nav-tabs > li:nth-child(2) > label:focus,
+.p-form-modern-indianRed .p-tab-sel:nth-child(3):checked ~ .nav-tabs > li:nth-child(3) > label:focus,
+.p-form-modern-indianRed .p-tab-sel:nth-child(4):checked ~ .nav-tabs > li:nth-child(4) > label:focus,
+.p-form-modern-indianRed .p-tab-sel:nth-child(5):checked ~ .nav-tabs > li:nth-child(5) > label:focus {
+  background-color: #cd5c5c;
+}
+.p-form-modern-indianRed .p-title,
+.p-form-modern-indianRed .p-subtitle {
+  color: #cd5c5c;
+}
+.p-form-modern-indianRed .p-title-line,
+.p-form-modern-indianRed .p-title-step-line,
+.p-form-modern-indianRed .p-title-side {
+  background-color: #cd5c5c;
+}
+.p-form-modern-indianRed .p-tooltip .p-tooltip-content {
+  background-color: #b43737;
+}
+.p-form-modern-indianRed .p-tooltip .p-tooltip-content:after {
+  border-color: rgba(180,55,55,0);
+  border-top-color: #b43737;
+}
+.p-form-modern-indianRed .p-tooltip.p-tooltip-bottom .p-tooltip-content:after,
+.p-form-modern-indianRed .p-tooltip.p-tooltip-bottom-left .p-tooltip-content:after,
+.p-form-modern-indianRed .p-tooltip.p-tooltip-bottom-right .p-tooltip-content:after {
+  border-top-color: rgba(180,55,55,0);
+  border-bottom-color: #b43737;
+}
+.p-form-modern-indianRed .p-tabs-offset > .nav-tabs > li > label {
+  background-color: #d77b7b;
+}
+.p-form-modern-indianRed .p-tabs-offset > .nav-tabs > li > label:hover,
+.p-form-modern-indianRed .p-tabs-offset > .nav-tabs > li > label:focus {
+  background-color: #cd5c5c;
+}
+.p-form-modern-indianRed .p-tabs-offset .p-tab-sel:nth-child(1):checked ~ .nav-tabs > li:nth-child(1) > label,
+.p-form-modern-indianRed .p-tabs-offset .p-tab-sel:nth-child(2):checked ~ .nav-tabs > li:nth-child(2) > label,
+.p-form-modern-indianRed .p-tabs-offset .p-tab-sel:nth-child(3):checked ~ .nav-tabs > li:nth-child(3) > label,
+.p-form-modern-indianRed .p-tabs-offset .p-tab-sel:nth-child(4):checked ~ .nav-tabs > li:nth-child(4) > label,
+.p-form-modern-indianRed .p-tabs-offset .p-tab-sel:nth-child(5):checked ~ .nav-tabs > li:nth-child(5) > label,
+.p-form-modern-indianRed .p-tabs-offset .p-tab-sel:nth-child(1):checked ~ .nav-tabs > li:nth-child(1) > label:hover,
+.p-form-modern-indianRed .p-tabs-offset .p-tab-sel:nth-child(2):checked ~ .nav-tabs > li:nth-child(2) > label:hover,
+.p-form-modern-indianRed .p-tabs-offset .p-tab-sel:nth-child(3):checked ~ .nav-tabs > li:nth-child(3) > label:hover,
+.p-form-modern-indianRed .p-tabs-offset .p-tab-sel:nth-child(4):checked ~ .nav-tabs > li:nth-child(4) > label:hover,
+.p-form-modern-indianRed .p-tabs-offset .p-tab-sel:nth-child(5):checked ~ .nav-tabs > li:nth-child(5) > label:hover,
+.p-form-modern-indianRed .p-tabs-offset .p-tab-sel:nth-child(1):checked ~ .nav-tabs > li:nth-child(1) > label:focus,
+.p-form-modern-indianRed .p-tabs-offset .p-tab-sel:nth-child(2):checked ~ .nav-tabs > li:nth-child(2) > label:focus,
+.p-form-modern-indianRed .p-tabs-offset .p-tab-sel:nth-child(3):checked ~ .nav-tabs > li:nth-child(3) > label:focus,
+.p-form-modern-indianRed .p-tabs-offset .p-tab-sel:nth-child(4):checked ~ .nav-tabs > li:nth-child(4) > label:focus,
+.p-form-modern-indianRed .p-tabs-offset .p-tab-sel:nth-child(5):checked ~ .nav-tabs > li:nth-child(5) > label:focus {
+  color: #cd5c5c;
+}
+.p-form-modern-indianRed .p-alt-back,
+.p-form-modern-indianRed .p-alt-back .p-form-bg {
+  background-color: #fdf7f7;
+}
+.p-form-modern-indianRed .p-alt-back.p-tabs-offset > .nav-tabs + .tab-content {
+  background-color: #fdf7f7;
+}
+.p-form-modern-indianRed .p-alt-back.p-tabs-offset .p-tab-sel:nth-child(1):checked ~ .nav-tabs > li:nth-child(1) > label,
+.p-form-modern-indianRed .p-alt-back.p-tabs-offset .p-tab-sel:nth-child(2):checked ~ .nav-tabs > li:nth-child(2) > label,
+.p-form-modern-indianRed .p-alt-back.p-tabs-offset .p-tab-sel:nth-child(3):checked ~ .nav-tabs > li:nth-child(3) > label,
+.p-form-modern-indianRed .p-alt-back.p-tabs-offset .p-tab-sel:nth-child(4):checked ~ .nav-tabs > li:nth-child(4) > label,
+.p-form-modern-indianRed .p-alt-back.p-tabs-offset .p-tab-sel:nth-child(5):checked ~ .nav-tabs > li:nth-child(5) > label,
+.p-form-modern-indianRed .p-alt-back.p-tabs-offset .p-tab-sel:nth-child(1):checked ~ .nav-tabs > li:nth-child(1) > label:hover,
+.p-form-modern-indianRed .p-alt-back.p-tabs-offset .p-tab-sel:nth-child(2):checked ~ .nav-tabs > li:nth-child(2) > label:hover,
+.p-form-modern-indianRed .p-alt-back.p-tabs-offset .p-tab-sel:nth-child(3):checked ~ .nav-tabs > li:nth-child(3) > label:hover,
+.p-form-modern-indianRed .p-alt-back.p-tabs-offset .p-tab-sel:nth-child(4):checked ~ .nav-tabs > li:nth-child(4) > label:hover,
+.p-form-modern-indianRed .p-alt-back.p-tabs-offset .p-tab-sel:nth-child(5):checked ~ .nav-tabs > li:nth-child(5) > label:hover,
+.p-form-modern-indianRed .p-alt-back.p-tabs-offset .p-tab-sel:nth-child(1):checked ~ .nav-tabs > li:nth-child(1) > label:focus,
+.p-form-modern-indianRed .p-alt-back.p-tabs-offset .p-tab-sel:nth-child(2):checked ~ .nav-tabs > li:nth-child(2) > label:focus,
+.p-form-modern-indianRed .p-alt-back.p-tabs-offset .p-tab-sel:nth-child(3):checked ~ .nav-tabs > li:nth-child(3) > label:focus,
+.p-form-modern-indianRed .p-alt-back.p-tabs-offset .p-tab-sel:nth-child(4):checked ~ .nav-tabs > li:nth-child(4) > label:focus,
+.p-form-modern-indianRed .p-alt-back.p-tabs-offset .p-tab-sel:nth-child(5):checked ~ .nav-tabs > li:nth-child(5) > label:focus {
+  background-color: #fdf7f7;
+}
+.p-form-modern-indianRed .p-alt-back .p-table.table-striped > tbody > tr:nth-of-type(even),
+.p-form-modern-indianRed .p-alt-back .p-table.table-striped > thead {
+  background-color: #f9ebeb;
+}
+.p-form-modern-indianRed .p-alt-back .panel-fp > .panel-heading {
+  background-color: #f9ebeb;
+}
+.p-form-modern-indianRed .p-alt-back .panel-fp > .panel-body {
+  background-color: #fdf7f7;
+}
+.p-form-modern-indianRed .p-alt-back hr.p-flat {
+  border-color: #f9ebeb;
+}

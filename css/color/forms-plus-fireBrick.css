@@ -1,0 +1,474 @@
+/*! Forms Plus: JS.1.3 - ' + '2016-01-25 */
+.p-form-modern-fireBrick .progress-bar-fp {
+  background-color: #b22222;
+}
+.p-form-modern-fireBrick .btn {
+  background-color: #b22222;
+}
+.p-form-modern-fireBrick .btn.p-active-btn,
+.p-form-modern-fireBrick .btn:hover,
+.p-form-modern-fireBrick .btn:focus {
+  background-color: #901b1b;
+}
+.p-form-modern-fireBrick .radio label a,
+.p-form-modern-fireBrick .checkbox label a,
+.p-form-modern-fireBrick .p-switch label a,
+.p-form-modern-fireBrick .p-radioswitch label a,
+.p-form-modern-fireBrick .p-show-block-heading label a {
+  color: #b22222;
+}
+.p-form-modern-fireBrick .p-check-active-icon {
+  color: #b22222;
+}
+.p-form-modern-fireBrick .p-check-block:after {
+  background-color: #b22222;
+  border-color: #b22222;
+}
+.p-form-modern-fireBrick .p-switch-icon:after {
+  background-color: #b22222;
+  border-color: #b22222;
+}
+.p-form-modern-fireBrick .p-check-next:checked + .p-check-container .p-check-icon .p-check-middle,
+.p-form-modern-fireBrick :checked ~ .p-check-icon .p-check-middle {
+  color: #b22222;
+}
+.p-form-modern-fireBrick .p-check-next:checked + .p-check-container .p-check-icon .p-check-block,
+.p-form-modern-fireBrick :checked ~ .p-check-icon .p-check-block {
+  border-color: #b22222;
+}
+.p-form-modern-fireBrick .p-check-next:checked + .p-check-container .p-switch-icon,
+.p-form-modern-fireBrick :checked ~ .p-switch-icon {
+  border-color: #b22222;
+}
+.p-form-modern-fireBrick .p-check-next:checked + .p-check-container .p-switch-icon:before,
+.p-form-modern-fireBrick :checked ~ .p-switch-icon:before {
+  color: #b22222;
+}
+.p-form-modern-fireBrick .checkbox label:hover .p-check-active-icon,
+.p-form-modern-fireBrick .radio label:hover .p-check-active-icon,
+.p-form-modern-fireBrick .p-check-next + .p-check-container:hover .p-check-active-icon,
+.p-form-modern-fireBrick .checkbox label:hover .p-check-icon .p-check-middle,
+.p-form-modern-fireBrick .radio label:hover .p-check-icon .p-check-middle,
+.p-form-modern-fireBrick .p-check-next + .p-check-container:hover .p-check-icon .p-check-middle {
+  color: #d93838;
+}
+.p-form-modern-fireBrick .checkbox label:hover .p-check-icon .p-check-block,
+.p-form-modern-fireBrick .radio label:hover .p-check-icon .p-check-block,
+.p-form-modern-fireBrick .p-check-next + .p-check-container:hover .p-check-icon .p-check-block {
+  border-color: #d93838;
+}
+.p-form-modern-fireBrick .p-radioswitch label:hover .p-switch-icon,
+.p-form-modern-fireBrick .p-switch label:hover .p-switch-icon {
+  border-color: #d93838;
+}
+.p-form-modern-fireBrick .p-picture-pick .p-preview-name {
+  background-color: rgba(0,0,0,0.7);
+}
+.p-form-modern-fireBrick .p-picture-pick :checked ~ .p-preview-name {
+  background-color: rgba(144,27,27,0.7);
+}
+.p-form-modern-fireBrick .p-picture-pick:hover .p-preview-name {
+  background-color: rgba(178,34,34,0.7);
+}
+.p-form-modern-fireBrick .p-block-pick :checked ~ .p-check-container {
+  background-color: #f7d4d4;
+}
+.p-form-modern-fireBrick .p-block-pick:hover .p-check-container {
+  background-color: #fae5e5;
+}
+.p-form-modern-fireBrick .p-show-block:checked + .p-show-block-heading:hover,
+.p-form-modern-fireBrick .p-show-block-heading:hover {
+  color: #d93838;
+}
+.p-form-modern-fireBrick .p-show-block:checked + .p-show-block-heading {
+  color: #b22222;
+}
+.p-form-modern-fireBrick .p-radio-color [type="checkbox"]:checked ~ .p-color-block,
+.p-form-modern-fireBrick .p-radio-color [type="radio"]:checked ~ .p-color-block {
+  border-color: #b22222;
+}
+.p-form-modern-fireBrick .p-colored-text {
+  color: #b22222;
+}
+.p-form-modern-fireBrick .p-alt-colored-text {
+  color: #b22222;
+}
+.p-form-modern-fireBrick .p-colored-link {
+  color: #b22222;
+}
+.p-form-modern-fireBrick .p-colored-link:hover {
+  color: #901b1b;
+}
+.p-form-modern-fireBrick .p-action-link:hover {
+  color: #901b1b;
+}
+.p-form-modern-fireBrick .form-control:focus,
+.p-form-modern-fireBrick .form-control:hover,
+.p-form-modern-fireBrick .input-group:hover .form-control,
+.p-form-modern-fireBrick .p-file-wrap [type="file"]:hover ~ .input-group .form-control,
+.p-form-modern-fireBrick .sp-input:focus,
+.p-form-modern-fireBrick .sp-input:hover {
+  border-color: #b22222;
+}
+.p-form-modern-fireBrick .form-control:focus ~ .input-group-icon,
+.p-form-modern-fireBrick .form-control:hover ~ .input-group-icon,
+.p-form-modern-fireBrick .input-group:hover .input-group-icon,
+.p-form-modern-fireBrick .p-file-wrap [type="file"]:hover ~ .input-group .input-group-icon,
+.p-form-modern-fireBrick .sp-input:focus ~ .input-group-icon,
+.p-form-modern-fireBrick .sp-input:hover ~ .input-group-icon,
+.p-form-modern-fireBrick .form-control:focus ~ .p-select-arrow,
+.p-form-modern-fireBrick .form-control:hover ~ .p-select-arrow,
+.p-form-modern-fireBrick .input-group:hover .p-select-arrow,
+.p-form-modern-fireBrick .p-file-wrap [type="file"]:hover ~ .input-group .p-select-arrow,
+.p-form-modern-fireBrick .sp-input:focus ~ .p-select-arrow,
+.p-form-modern-fireBrick .sp-input:hover ~ .p-select-arrow,
+.p-form-modern-fireBrick .form-control:focus ~ .input-group-addon .p-addon-bg,
+.p-form-modern-fireBrick .form-control:hover ~ .input-group-addon .p-addon-bg,
+.p-form-modern-fireBrick .input-group:hover .input-group-addon .p-addon-bg,
+.p-form-modern-fireBrick .p-file-wrap [type="file"]:hover ~ .input-group .input-group-addon .p-addon-bg,
+.p-form-modern-fireBrick .sp-input:focus ~ .input-group-addon .p-addon-bg,
+.p-form-modern-fireBrick .sp-input:hover ~ .input-group-addon .p-addon-bg {
+  border-color: #901b1b;
+  background-color: #b22222;
+}
+.p-form-modern-fireBrick .form-control:focus ~ .p-field-cb,
+.p-form-modern-fireBrick .form-control:hover ~ .p-field-cb,
+.p-form-modern-fireBrick .input-group:hover .p-field-cb,
+.p-form-modern-fireBrick .p-file-wrap [type="file"]:hover ~ .input-group .p-field-cb,
+.p-form-modern-fireBrick .sp-input:focus ~ .p-field-cb,
+.p-form-modern-fireBrick .sp-input:hover ~ .p-field-cb {
+  border-color: #b22222;
+}
+.p-form-modern-fireBrick .input-group-btn .btn:hover,
+.p-form-modern-fireBrick .input-group-btn .btn:focus,
+.p-form-modern-fireBrick .p-file-wrap [type="file"]:hover ~ .input-group .input-group-btn .btn {
+  background-color: #901b1b;
+}
+.p-form-modern-fireBrick .sp-container {
+  background-color: #b22222;
+}
+.p-form-modern-fireBrick .sp-initial,
+.p-form-modern-fireBrick .sp-clear,
+.p-form-modern-fireBrick .sp-palette .sp-thumb-el {
+  border-color: #d93838;
+  color: #d93838;
+}
+.p-form-modern-fireBrick .sp-clear:hover,
+.p-form-modern-fireBrick .sp-palette .sp-thumb-el:hover,
+.p-form-modern-fireBrick .sp-palette .sp-thumb-el.sp-thumb-active {
+  border-color: #7f1818;
+  color: #7f1818;
+}
+.p-form-modern-fireBrick .sp-clear:hover:after,
+.p-form-modern-fireBrick .sp-palette .sp-thumb-el:hover:after,
+.p-form-modern-fireBrick .sp-palette .sp-thumb-el.sp-thumb-active:after {
+  border-color: #fceeee;
+}
+.p-form-modern-fireBrick .sp-choose,
+.p-form-modern-fireBrick .sp-cancel,
+.p-form-modern-fireBrick .sp-palette-toggle {
+  color: #fceeee;
+}
+.p-form-modern-fireBrick .sp-choose:hover,
+.p-form-modern-fireBrick .sp-cancel:hover,
+.p-form-modern-fireBrick .sp-palette-toggle:hover,
+.p-form-modern-fireBrick .sp-choose:focus,
+.p-form-modern-fireBrick .sp-cancel:focus,
+.p-form-modern-fireBrick .sp-palette-toggle:focus,
+.p-form-modern-fireBrick .sp-choose:active,
+.p-form-modern-fireBrick .sp-cancel:active,
+.p-form-modern-fireBrick .sp-palette-toggle:active {
+  color: #e78383;
+}
+.p-form-modern-fireBrick .p-colorpick-no-bg .sp-flat .sp-clear:hover,
+.p-form-modern-fireBrick .p-colorpick-no-bg .sp-flat .sp-palette .sp-thumb-el:hover,
+.p-form-modern-fireBrick .p-colorpick-no-bg .sp-flat .sp-palette .sp-thumb-el.sp-thumb-active {
+  border-color: #b22222;
+  color: #b22222;
+}
+.p-form-modern-fireBrick .p-colorpick-no-bg .sp-flat .sp-choose,
+.p-form-modern-fireBrick .p-colorpick-no-bg .sp-flat .sp-cancel,
+.p-form-modern-fireBrick .p-colorpick-no-bg .sp-flat .sp-palette-toggle {
+  background-color: #b22222;
+}
+.p-form-modern-fireBrick .p-colorpick-no-bg .sp-flat .sp-choose:hover,
+.p-form-modern-fireBrick .p-colorpick-no-bg .sp-flat .sp-cancel:hover,
+.p-form-modern-fireBrick .p-colorpick-no-bg .sp-flat .sp-palette-toggle:hover,
+.p-form-modern-fireBrick .p-colorpick-no-bg .sp-flat .sp-choose:focus,
+.p-form-modern-fireBrick .p-colorpick-no-bg .sp-flat .sp-cancel:focus,
+.p-form-modern-fireBrick .p-colorpick-no-bg .sp-flat .sp-palette-toggle:focus,
+.p-form-modern-fireBrick .p-colorpick-no-bg .sp-flat .sp-choose:active,
+.p-form-modern-fireBrick .p-colorpick-no-bg .sp-flat .sp-cancel:active,
+.p-form-modern-fireBrick .p-colorpick-no-bg .sp-flat .sp-palette-toggle:active {
+  background-color: #901b1b;
+}
+.p-form-modern-fireBrick .bootstrap-datetimepicker-widget {
+  background-color: #b22222;
+}
+.p-form-modern-fireBrick .bootstrap-datetimepicker-widget table thead tr:first-child th:hover {
+  color: #de5252;
+  background-color: #4b0e0e;
+}
+.p-form-modern-fireBrick .bootstrap-datetimepicker-widget table thead th {
+  background-color: #4b0e0e;
+}
+.p-form-modern-fireBrick .bootstrap-datetimepicker-widget table td div:hover,
+.p-form-modern-fireBrick .bootstrap-datetimepicker-widget table td span:hover {
+  color: #7f1818;
+  background-color: #d93838;
+}
+.p-form-modern-fireBrick .bootstrap-datetimepicker-widget table td a,
+.p-form-modern-fireBrick .bootstrap-datetimepicker-widget table td .btn {
+  color: #e36c6c;
+  background-color: transparent;
+}
+.p-form-modern-fireBrick .bootstrap-datetimepicker-widget table td a:hover,
+.p-form-modern-fireBrick .bootstrap-datetimepicker-widget table td .btn:hover,
+.p-form-modern-fireBrick .bootstrap-datetimepicker-widget table td a span:hover,
+.p-form-modern-fireBrick .bootstrap-datetimepicker-widget table td .btn span:hover {
+  color: #4b0e0e;
+}
+.p-form-modern-fireBrick .bootstrap-datetimepicker-widget table .old,
+.p-form-modern-fireBrick .bootstrap-datetimepicker-widget table .new {
+  color: #f3bfbf;
+}
+.p-form-modern-fireBrick .bootstrap-datetimepicker-widget table td .active,
+.p-form-modern-fireBrick .bootstrap-datetimepicker-widget table .active div {
+  background-color: #4b0e0e;
+}
+.p-form-modern-fireBrick .bootstrap-datetimepicker-widget table .today div:before {
+  border-color: rgba(227,108,108,0);
+  border-bottom-color: #e36c6c;
+}
+.p-form-modern-fireBrick .bootstrap-datetimepicker-widget table span.disabled,
+.p-form-modern-fireBrick .bootstrap-datetimepicker-widget table .disabled div,
+.p-form-modern-fireBrick .bootstrap-datetimepicker-widget table span.disabled:hover,
+.p-form-modern-fireBrick .bootstrap-datetimepicker-widget table .disabled div:hover {
+  color: #d93838;
+  background-color: #b22222;
+}
+.p-form-modern-fireBrick .bootstrap-datetimepicker-widget table .disabled span,
+.p-form-modern-fireBrick .bootstrap-datetimepicker-widget table .disabled span:hover {
+  color: #d93838;
+}
+.p-form-modern-fireBrick .bootstrap-datetimepicker-widget .datepicker-days thead .picker-switch {
+  border-bottom-color: #7f1818;
+}
+.p-form-modern-fireBrick .bootstrap-datetimepicker-widget.dropdown-menu.top:after {
+  border-top-color: #b22222;
+}
+.p-form-modern-fireBrick .bootstrap-datetimepicker-widget.dropdown-menu.bottom:after {
+  border-bottom-color: #4b0e0e;
+}
+.p-form-modern-fireBrick .p-datetime-no-bg .bootstrap-datetimepicker-widget table thead {
+  color: #b22222;
+}
+.p-form-modern-fireBrick .p-datetime-no-bg .bootstrap-datetimepicker-widget table thead tr:first-child th:hover {
+  color: #4b0e0e;
+}
+.p-form-modern-fireBrick .p-datetime-no-bg .bootstrap-datetimepicker-widget table thead .dow {
+  color: #4b0e0e;
+}
+.p-form-modern-fireBrick .p-datetime-no-bg .bootstrap-datetimepicker-widget table td a,
+.p-form-modern-fireBrick .p-datetime-no-bg .bootstrap-datetimepicker-widget table td .btn {
+  color: #b22222;
+}
+.p-form-modern-fireBrick .p-datetime-no-bg .bootstrap-datetimepicker-widget table td a:hover,
+.p-form-modern-fireBrick .p-datetime-no-bg .bootstrap-datetimepicker-widget table td .btn:hover,
+.p-form-modern-fireBrick .p-datetime-no-bg .bootstrap-datetimepicker-widget table td a span:hover,
+.p-form-modern-fireBrick .p-datetime-no-bg .bootstrap-datetimepicker-widget table td .btn span:hover {
+  color: #4b0e0e;
+}
+.p-form-modern-fireBrick .p-datetime-no-bg .bootstrap-datetimepicker-widget table .today div:before {
+  border-color: rgba(227,108,108,0);
+  border-bottom-color: #e36c6c;
+}
+.p-form-modern-fireBrick .p-js-link {
+  color: #e36c6c;
+}
+.p-form-modern-fireBrick .p-js-link:hover,
+.p-form-modern-fireBrick .p-show-js-block .p-js-link:hover,
+.p-form-modern-fireBrick .p-field-toggled .p-js-link:hover,
+.p-form-modern-fireBrick .p-js-link:focus,
+.p-form-modern-fireBrick .p-show-js-block .p-js-link:focus,
+.p-form-modern-fireBrick .p-field-toggled .p-js-link:focus {
+  color: #d42929;
+}
+.p-form-modern-fireBrick .p-js-active-link,
+.p-form-modern-fireBrick .p-show-js-block .p-js-link,
+.p-form-modern-fireBrick .p-field-toggled .p-js-link {
+  color: #b22222;
+}
+.p-form-modern-fireBrick .input-group .realperson-challenge .realperson-regen {
+  color: #b22222;
+}
+.p-form-modern-fireBrick .input-group .realperson-challenge .realperson-regen:hover {
+  color: #901b1b;
+}
+.p-form-modern-fireBrick .input-group .realperson-challenge .realperson-text:hover {
+  color: #b22222;
+}
+.p-form-modern-fireBrick .p-slider-block .p-js-value,
+.p-form-modern-fireBrick .p-sl-tip {
+  border-color: #b22222;
+}
+.p-form-modern-fireBrick .p-sl-tip:before {
+  border-color: rgba(178,34,34,0);
+}
+.p-form-modern-fireBrick .ui-slider-range {
+  background-color: #b22222;
+}
+.p-form-modern-fireBrick .ui-slider-handle:after {
+  border-color: #b22222;
+}
+.p-form-modern-fireBrick .ui-slider-handle .p-sl-icon {
+  background-color: #b22222;
+}
+.p-form-modern-fireBrick .ui-slider-handle.ui-state-focus:after,
+.p-form-modern-fireBrick .ui-slider-handle.ui-state-active:after,
+.p-form-modern-fireBrick .ui-slider-handle.ui-state-hover:after {
+  border-color: #901b1b;
+}
+.p-form-modern-fireBrick .ui-slider-handle.ui-state-focus .p-sl-icon,
+.p-form-modern-fireBrick .ui-slider-handle.ui-state-active .p-sl-icon,
+.p-form-modern-fireBrick .ui-slider-handle.ui-state-hover .p-sl-icon {
+  background-color: #901b1b;
+}
+.p-form-modern-fireBrick .ui-slider-horizontal .p-sl-tip:before {
+  border-bottom-color: #b22222;
+}
+.p-form-modern-fireBrick .ui-slider-vertical .p-sl-tip:before {
+  border-right-color: #b22222;
+}
+.p-form-modern-fireBrick .p-rating .p-rating-active-icon {
+  color: #b22222;
+}
+.p-form-modern-fireBrick .p-rating input[type="radio"] ~ label:hover .p-rating-icon,
+.p-form-modern-fireBrick .p-rating input[type="radio"] ~ label:hover ~ label .p-rating-icon,
+.p-form-modern-fireBrick .p-rating [type="radio"]:checked ~ label .p-rating-icon {
+  color: #b22222;
+}
+.p-form-modern-fireBrick .p-rating input[type="radio"] ~ label.p-field-cancel:hover {
+  color: #b22222;
+}
+.p-form-modern-fireBrick .p-rating input[type="radio"] ~ label.p-field-cancel:hover ~ label .p-rating-icon,
+.p-form-modern-fireBrick .p-rating .p-rating-cancel:checked ~ label .p-rating-icon,
+.p-form-modern-fireBrick .p-rating *:hover [type="radio"] ~ label .p-rating-icon {
+  color: #999;
+}
+.p-form-modern-fireBrick .p-form-steps > li.active .p-step:before {
+  background-color: #7f1818;
+}
+.p-form-modern-fireBrick .p-step {
+  color: #d42929;
+}
+.p-form-modern-fireBrick .p-step .p-step-text {
+  background-color: #7f1818;
+}
+.p-form-modern-fireBrick .nav-tabs > li > label {
+  color: #b22222;
+}
+.p-form-modern-fireBrick .nav-tabs > li > label:hover,
+.p-form-modern-fireBrick .nav-tabs > li > label:focus {
+  background-color: #d42929;
+}
+.p-form-modern-fireBrick .p-tab-sel:nth-child(1):checked ~ .nav-tabs > li:nth-child(1) > label,
+.p-form-modern-fireBrick .p-tab-sel:nth-child(2):checked ~ .nav-tabs > li:nth-child(2) > label,
+.p-form-modern-fireBrick .p-tab-sel:nth-child(3):checked ~ .nav-tabs > li:nth-child(3) > label,
+.p-form-modern-fireBrick .p-tab-sel:nth-child(4):checked ~ .nav-tabs > li:nth-child(4) > label,
+.p-form-modern-fireBrick .p-tab-sel:nth-child(5):checked ~ .nav-tabs > li:nth-child(5) > label,
+.p-form-modern-fireBrick .p-tab-sel:nth-child(1):checked ~ .nav-tabs > li:nth-child(1) > label:hover,
+.p-form-modern-fireBrick .p-tab-sel:nth-child(2):checked ~ .nav-tabs > li:nth-child(2) > label:hover,
+.p-form-modern-fireBrick .p-tab-sel:nth-child(3):checked ~ .nav-tabs > li:nth-child(3) > label:hover,
+.p-form-modern-fireBrick .p-tab-sel:nth-child(4):checked ~ .nav-tabs > li:nth-child(4) > label:hover,
+.p-form-modern-fireBrick .p-tab-sel:nth-child(5):checked ~ .nav-tabs > li:nth-child(5) > label:hover,
+.p-form-modern-fireBrick .p-tab-sel:nth-child(1):checked ~ .nav-tabs > li:nth-child(1) > label:focus,
+.p-form-modern-fireBrick .p-tab-sel:nth-child(2):checked ~ .nav-tabs > li:nth-child(2) > label:focus,
+.p-form-modern-fireBrick .p-tab-sel:nth-child(3):checked ~ .nav-tabs > li:nth-child(3) > label:focus,
+.p-form-modern-fireBrick .p-tab-sel:nth-child(4):checked ~ .nav-tabs > li:nth-child(4) > label:focus,
+.p-form-modern-fireBrick .p-tab-sel:nth-child(5):checked ~ .nav-tabs > li:nth-child(5) > label:focus {
+  background-color: #b22222;
+}
+.p-form-modern-fireBrick .p-title,
+.p-form-modern-fireBrick .p-subtitle {
+  color: #b22222;
+}
+.p-form-modern-fireBrick .p-title-line,
+.p-form-modern-fireBrick .p-title-step-line,
+.p-form-modern-fireBrick .p-title-side {
+  background-color: #b22222;
+}
+.p-form-modern-fireBrick .p-tooltip .p-tooltip-content {
+  background-color: #7f1818;
+}
+.p-form-modern-fireBrick .p-tooltip .p-tooltip-content:after {
+  border-color: rgba(127,24,24,0);
+  border-top-color: #7f1818;
+}
+.p-form-modern-fireBrick .p-tooltip.p-tooltip-bottom .p-tooltip-content:after,
+.p-form-modern-fireBrick .p-tooltip.p-tooltip-bottom-left .p-tooltip-content:after,
+.p-form-modern-fireBrick .p-tooltip.p-tooltip-bottom-right .p-tooltip-content:after {
+  border-top-color: rgba(127,24,24,0);
+  border-bottom-color: #7f1818;
+}
+.p-form-modern-fireBrick .p-tabs-offset > .nav-tabs > li > label {
+  background-color: #d42929;
+}
+.p-form-modern-fireBrick .p-tabs-offset > .nav-tabs > li > label:hover,
+.p-form-modern-fireBrick .p-tabs-offset > .nav-tabs > li > label:focus {
+  background-color: #b22222;
+}
+.p-form-modern-fireBrick .p-tabs-offset .p-tab-sel:nth-child(1):checked ~ .nav-tabs > li:nth-child(1) > label,
+.p-form-modern-fireBrick .p-tabs-offset .p-tab-sel:nth-child(2):checked ~ .nav-tabs > li:nth-child(2) > label,
+.p-form-modern-fireBrick .p-tabs-offset .p-tab-sel:nth-child(3):checked ~ .nav-tabs > li:nth-child(3) > label,
+.p-form-modern-fireBrick .p-tabs-offset .p-tab-sel:nth-child(4):checked ~ .nav-tabs > li:nth-child(4) > label,
+.p-form-modern-fireBrick .p-tabs-offset .p-tab-sel:nth-child(5):checked ~ .nav-tabs > li:nth-child(5) > label,
+.p-form-modern-fireBrick .p-tabs-offset .p-tab-sel:nth-child(1):checked ~ .nav-tabs > li:nth-child(1) > label:hover,
+.p-form-modern-fireBrick .p-tabs-offset .p-tab-sel:nth-child(2):checked ~ .nav-tabs > li:nth-child(2) > label:hover,
+.p-form-modern-fireBrick .p-tabs-offset .p-tab-sel:nth-child(3):checked ~ .nav-tabs > li:nth-child(3) > label:hover,
+.p-form-modern-fireBrick .p-tabs-offset .p-tab-sel:nth-child(4):checked ~ .nav-tabs > li:nth-child(4) > label:hover,
+.p-form-modern-fireBrick .p-tabs-offset .p-tab-sel:nth-child(5):checked ~ .nav-tabs > li:nth-child(5) > label:hover,
+.p-form-modern-fireBrick .p-tabs-offset .p-tab-sel:nth-child(1):checked ~ .nav-tabs > li:nth-child(1) > label:focus,
+.p-form-modern-fireBrick .p-tabs-offset .p-tab-sel:nth-child(2):checked ~ .nav-tabs > li:nth-child(2) > label:focus,
+.p-form-modern-fireBrick .p-tabs-offset .p-tab-sel:nth-child(3):checked ~ .nav-tabs > li:nth-child(3) > label:focus,
+.p-form-modern-fireBrick .p-tabs-offset .p-tab-sel:nth-child(4):checked ~ .nav-tabs > li:nth-child(4) > label:focus,
+.p-form-modern-fireBrick .p-tabs-offset .p-tab-sel:nth-child(5):checked ~ .nav-tabs > li:nth-child(5) > label:focus {
+  color: #b22222;
+}
+.p-form-modern-fireBrick .p-alt-back,
+.p-form-modern-fireBrick .p-alt-back .p-form-bg {
+  background-color: #fdf6f6;
+}
+.p-form-modern-fireBrick .p-alt-back.p-tabs-offset > .nav-tabs + .tab-content {
+  background-color: #fdf6f6;
+}
+.p-form-modern-fireBrick .p-alt-back.p-tabs-offset .p-tab-sel:nth-child(1):checked ~ .nav-tabs > li:nth-child(1) > label,
+.p-form-modern-fireBrick .p-alt-back.p-tabs-offset .p-tab-sel:nth-child(2):checked ~ .nav-tabs > li:nth-child(2) > label,
+.p-form-modern-fireBrick .p-alt-back.p-tabs-offset .p-tab-sel:nth-child(3):checked ~ .nav-tabs > li:nth-child(3) > label,
+.p-form-modern-fireBrick .p-alt-back.p-tabs-offset .p-tab-sel:nth-child(4):checked ~ .nav-tabs > li:nth-child(4) > label,
+.p-form-modern-fireBrick .p-alt-back.p-tabs-offset .p-tab-sel:nth-child(5):checked ~ .nav-tabs > li:nth-child(5) > label,
+.p-form-modern-fireBrick .p-alt-back.p-tabs-offset .p-tab-sel:nth-child(1):checked ~ .nav-tabs > li:nth-child(1) > label:hover,
+.p-form-modern-fireBrick .p-alt-back.p-tabs-offset .p-tab-sel:nth-child(2):checked ~ .nav-tabs > li:nth-child(2) > label:hover,
+.p-form-modern-fireBrick .p-alt-back.p-tabs-offset .p-tab-sel:nth-child(3):checked ~ .nav-tabs > li:nth-child(3) > label:hover,
+.p-form-modern-fireBrick .p-alt-back.p-tabs-offset .p-tab-sel:nth-child(4):checked ~ .nav-tabs > li:nth-child(4) > label:hover,
+.p-form-modern-fireBrick .p-alt-back.p-tabs-offset .p-tab-sel:nth-child(5):checked ~ .nav-tabs > li:nth-child(5) > label:hover,
+.p-form-modern-fireBrick .p-alt-back.p-tabs-offset .p-tab-sel:nth-child(1):checked ~ .nav-tabs > li:nth-child(1) > label:focus,
+.p-form-modern-fireBrick .p-alt-back.p-tabs-offset .p-tab-sel:nth-child(2):checked ~ .nav-tabs > li:nth-child(2) > label:focus,
+.p-form-modern-fireBrick .p-alt-back.p-tabs-offset .p-tab-sel:nth-child(3):checked ~ .nav-tabs > li:nth-child(3) > label:focus,
+.p-form-modern-fireBrick .p-alt-back.p-tabs-offset .p-tab-sel:nth-child(4):checked ~ .nav-tabs > li:nth-child(4) > label:focus,
+.p-form-modern-fireBrick .p-alt-back.p-tabs-offset .p-tab-sel:nth-child(5):checked ~ .nav-tabs > li:nth-child(5) > label:focus {
+  background-color: #fdf6f6;
+}
+.p-form-modern-fireBrick .p-alt-back .p-table.table-striped > tbody > tr:nth-of-type(even),
+.p-form-modern-fireBrick .p-alt-back .p-table.table-striped > thead {
+  background-color: #fbeaea;
+}
+.p-form-modern-fireBrick .p-alt-back .panel-fp > .panel-heading {
+  background-color: #fbeaea;
+}
+.p-form-modern-fireBrick .p-alt-back .panel-fp > .panel-body {
+  background-color: #fdf6f6;
+}
+.p-form-modern-fireBrick .p-alt-back hr.p-flat {
+  border-color: #fbeaea;
+}
