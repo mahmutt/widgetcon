@@ -4,6 +4,7 @@
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
+		<meta name="yandex-verification" content="0288e74dbda0a296" />
         <title>Widgetcon | Molecular Data Converter Widget</title>
 		<!-- Sweet Alert style -->
 		<link rel="stylesheet" href="./sweetalert/dist/sweetalert2.min.css">
@@ -94,7 +95,7 @@
 					<!--<a class="index.php" href=""><i class="fa fa-home"></i>&nbsp;HOME</a>
 					<hr>-->
 					<div align="center"><img class="img-responsive" src="images/widgetcon-logo-1080x332.png" width="332"/></div>
-					<div align="center" style="margin-bottom:5px;"><span style="color:#333;font-weight:bold">Quick conversion among common genomic data formats -</span> <span style="color:#b33996;font-weight:bold">version 1.0.0</span></div>
+					<div align="center" style="margin-bottom:5px;"><span style="color:#333;font-weight:bold">Quick conversion among common population genetic data formats -</span> <span style="color:#b33996;font-weight:bold">version 1.0.0</span></div>
                     <div class="p-form-steps-wrap">
                         <ul class="p-form-steps" data-js-stepper="checkoutSteps">
                             <li class="active" data-js-step="step1">
@@ -171,8 +172,22 @@
 						
                     </div>
 					<hr>
-				 © 2018 by <a href="javascript:void(0)">Assoc. Prof. M.Şakiroğlu & Expert M.Aydın</a>. All Rights Reserved.
-				<a href="/widgetcon-version 1.0.0-doc.pdf" target="_blank" style="color:#b33996;font-weight:bold;"><i class="fa fa-file-pdf-o"></i> documentation of widgetcon</a>				 
+					<div class="row">
+						
+						<div class="col-md-3">
+							<a href="https://github.com/mahmutt/widgetcon" target="_blank" style="color:#b33996;font-weight:bold;text-decoration:underline"><i class="fa fa-github"></i> Github</a> 				 
+						</div>
+						<div class="col-md-3">
+							<a href="https://widgetcon.net/documentation" target="_blank" style="color:#b33996;font-weight:bold;text-decoration:underline"><i class="fa fa-file"></i> Documentation</a> 				 
+						</div>
+						<div class="col-md-3" style="">
+							 <a href="https://widgetcon.net/documentation#contuct-and-bug-report" target="_blank" style="color:#b33996;font-weight:bold;text-decoration:underline"><i class="fa fa-bug"></i> Bug Report</a> 	  
+						</div>
+						<div class="col-md-3" style="">
+							 <a href="https://widgetcon.net/documentation#example-data-sets" target="_blank" style="color:#b33996;font-weight:bold;text-decoration:underline"><i class="fa fa-file-text-o"></i> Example Data Sets</a> 	  
+						</div>
+					</div>
+					
                 </div>
             </form>
             <!-- End: modern skin - Checkout steps -->
@@ -563,6 +578,8 @@
 					dfd.reject('validation');
 				}
 				if(valid){
+					var start_time;
+					var end_time;
 					$.ajax
 					({	
 						type	: "POST",
@@ -570,6 +587,8 @@
 						data	:$('#formum').serialize()+ '&file_name=' + file_name,
 						beforeSend: function(){
 							NProgress.start();
+							start_time=new Date().getTime();
+							console.log("start time:"+start_time);
 						},
 						success	:function(response)
 						{
@@ -577,8 +596,9 @@
 							function() 
 							{
 								NProgress.done();
+								console.log("end time:"+new Date().getTime());
 								swal({
-								  title: '<h4 style="color:#a5dc86">Your output file is avaliable</h4>',
+								  title: '<h4 style="color:#a5dc86">Your output file is avaliable <span style="font-size:10px;color:red">'+(new Date().getTime() - start_time) / 1000+' s.</span></h4>',
 								  width: 720,
 								  type: 'success',
 								  showConfirmButton: false,
